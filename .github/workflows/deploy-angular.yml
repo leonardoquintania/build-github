@@ -1,6 +1,4 @@
-name: 
-
--angular
+name: angular
 
 on:
   push:
